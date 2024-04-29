@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>@GabrielCoq</b>
+- 👋 Hi, I’m <b>@GabrielCoquillet</b>
 - 👀 I’m interested in Technolgy and programming
 - 🌱 I’m currently learning Python, Web
 <!---
