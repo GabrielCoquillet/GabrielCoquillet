@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **docker, python, php and other things**
 
-- 👨‍💻 All of my projects are available at [g.coquillet.fr](g.coquillet.fr)
+- 👨‍💻 All of my projects are available at [g.coquillet.fr](https://g.coquillet.fr)
 
 - 📫 How to reach me **gabriel.coquillet@outlook.com**
 
