@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gabriel Coquillet</h1>
 <h3 align="center">A passionate learner from France</h3>
 
-- 🔭 I’m currently working on [my pokedex](https://pokedex.gcoquillet.fr)
+- 🔭 I’m currently working on [my Bd Manager](https://bd.gcoquillet.fr)
 
 - 🌱 I’m currently learning **docker, python, php and other things**
 
