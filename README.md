@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm gabriel Coquillet</h1>
 <h3 align="center">A passionate learner from France</h3>
 
-- 🔭 I’m currently working on [my Bd Manager](https://bd.gcoquillet.fr)
-
 - 🌱 I’m currently learning **docker, python, php and other things**
 
 - 👨‍💻 All of my projects are available at [g.coquillet.fr](https://www.gcoquillet.fr)
-
-- 📫 How to reach me **gabriel.coquillet@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
